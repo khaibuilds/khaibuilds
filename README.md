@@ -1,46 +1,48 @@
 # KhaiBuilds
 
-**Independent Web Builder | JavaScript Utilities, Website Fixes & Static-Site Maintenance**
+**Independent Developer | Practical Web Tools, QA & Reliable Delivery**
 
-Hi, I'm Khai, an independent maker based in Vietnam. I build practical digital tools and work on focused web tasks with clear requirements and testable results.
+I'm an independent developer based in Vietnam. I build practical software, solve clearly scoped technical problems, and make the results easier to verify through testing and documentation.
 
-I value simple solutions, a well-defined scope, and reliable delivery over unnecessary complexity.
+## Current Service Areas
 
-## What I Can Help With
+- Diagnose and fix specific **HTML, CSS, and JavaScript** issues.
+- Build small **browser-based utilities** with clear inputs and outputs.
+- Maintain **static websites**, including links, content, and responsive layouts.
+- Document changes, run applicable checks, and provide a reproducible handoff.
 
-- Fix specific **HTML, CSS, and JavaScript** issues on existing websites.
-- Build small **browser-based tools and utilities**.
-- Update and maintain **static websites**, including content, links, and responsive layout fixes.
-- Check changes on mobile and desktop, document the results, and provide a clear handoff.
+I also learn through real issues and open-source work in **QA, automation, data, and cloud software**. These are areas of exploration, not a claim of expertise in every technology.
 
-## Selected Projects
+## Selected, Verifiable Work
 
-| Project | What it demonstrates |
-| --- | --- |
-| [9×9 Tools](https://tools.9x9.vn) | A collection of lightweight, practical browser utilities. |
-| [9×9 Link](https://link.9x9.vn) | Personal link pages designed for easy sharing. |
-| [9×9](https://9x9.vn) | A home for useful digital products and experiments. |
-| [KhaiBuilds](https://khaibuilds.com) | My personal project showcase. |
+These are **self-developed projects**, not paid client commissions.
 
-These are examples from the 9×9 ecosystem. Production source code may be private; the live products are linked above so you can explore the results.
+| Project | Evidence | Source |
+| --- | --- | --- |
+| [KhaiBuilds Website](https://khaibuilds.com/) | Bilingual Astro/TypeScript site, source and documented CI checks | [Public repository](https://github.com/khaibuilds/khaibuilds-web) |
+| [9×9 Tools](https://tools.9x9.vn/) | Practical browser utilities | Private |
+| [9×9 LINK](https://link.9x9.vn/) | Shareable link pages | Private |
 
-## Tools & Workflow
+A product demo does **not** by itself prove code quality, security, or test coverage. Only intentionally public source is linked.
 
-- **Web:** HTML, CSS, JavaScript
-- **Version control:** Git, GitHub, pull requests
-- **Delivery:** GitHub Actions, Cloudflare Pages
-- **Quality:** Mobile-first checks, focused QA, clear acceptance criteria
-- **Development approach:** AI-assisted implementation with human review, testing, and accountability
+## Tools & Working Method
 
-## How I Work
+**Visible in public source:** Astro, TypeScript, HTML, CSS, GitHub Actions, and static-site checks.  
+**Also used:** JavaScript, Git/GitHub, and Cloudflare deployment workflows.
 
-1. Agree on the specific problem, scope, and expected outcome.
-2. Make focused changes using version control.
-3. Test the result and document what changed.
-4. Deliver the agreed files, links, or deployment handoff.
+My approach combines **AI-assisted implementation with human review**, explicit acceptance criteria, and accountability for the result.
 
-## Let's Work Together
+1. Agree on the problem, constraints, and testable outcome.
+2. Make focused changes on a separate branch.
+3. Verify what can be tested and document what remains unverified.
+4. Request approval before merging or releasing.
 
-I'm interested in **small, clearly scoped freelance web projects**—especially JavaScript utilities, specific bug fixes, and static-site maintenance.
+## Open Source
 
-**[Portfolio](https://khaibuilds.com) · [9×9 Projects](https://9x9.vn) · [GitHub](https://github.com/khaibuilds)**
+I evaluate real issues and contribute when a fix can be reproduced and tested. An open PR is **not** the same as a maintainer-accepted contribution. I only present accepted work as accepted.
+
+## Contact
+
+**[Portfolio](https://khaibuilds.com/) · [Email](mailto:hi@khaibuilds.com) · [GitHub](https://github.com/khaibuilds)**
+
+For freelance inquiries, please share the problem, expected result, relevant URL (if shareable), and constraints.
